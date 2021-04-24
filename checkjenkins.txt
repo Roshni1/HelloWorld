@@ -1,0 +1,14 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0E76-5293
+
+ Directory of C:\Users\i500636\Desktop\Workspace1\javaProject
+
+04/24/2021  02:53 PM    <DIR>          .
+04/24/2021  02:53 PM    <DIR>          ..
+04/24/2021  12:46 PM    <DIR>          .idea
+04/24/2021  02:53 PM                 0 checkjenkins.txt
+04/23/2021  05:25 PM               671 Hello.class
+04/23/2021  02:11 PM               186 Hello.java
+04/23/2021  05:20 PM               518 readme.txt
+               4 File(s)          1,375 bytes
+               3 Dir(s)  177,861,980,160 bytes free
